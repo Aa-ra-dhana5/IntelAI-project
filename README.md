@@ -117,8 +117,4 @@ This project is for educational purposes only.
 
 ---
 
-## 🙋‍♀️ Built By
-
-**Kanimozhi** – B.Tech Artificial Intelligence and Data Science Student
-📫 [LinkedIn](https://www.linkedin.com/in/kanimozhi-kathirvel) | [GitHub](https://github.com/its-kanii)
 
